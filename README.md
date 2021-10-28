@@ -1,1 +1,5 @@
-# camo.nrw.dachbox
+Im Rahmen des EFRE-geförderten Projektes CAMO.NRW forschen Mitarbeiter der Hochschule Ruhr West zusammen mit Kollegen der Bergischen Universität Wuppertal und der Bergischen Struktur- & Wirtschaftsförderungsgesellschaft an der Zukunft der automatisierten Mobilität. An der Hochschule bestand schon eine Experimentalplattform bestehend aus verschiedenen Kameras, Radarsensoren, LiDAR und mehreren GNSS.
+Jene Plattform war im Kofferraum eines PKWs verbaut, jedoch ohne die Beachtung gängiger Sicherheitsvorschriften und Normen. 
+Durch die komplexe Einbauweise war die gesamte Plattform an einen einzelnen PKW gebunden. 
+Im Rahmen dieser Arbeit wurde die vorhandene Sensortechnik auf einem austauschbaren Geräteträger montiert. Hierbei wurde sowohl auf Sicherheitsvorschriften als auch auf die einfache Montagemöglichkeit auf verschiedenen PKW geachtet. 
+Der entstandene Geräteträger kann nun sowohl mobil als auch stationär, auf einem beliebigen PKW montiert oder in einer Laborumgebung ohne PKW genutzt werden. 
